@@ -1,2 +1,2 @@
 # calculator-app
-A simple web-based calculator application developed using HTML, CSS, and JavaScript that performs
+Calculator Web Applications built using HTML, CSS, and JavaScript.
